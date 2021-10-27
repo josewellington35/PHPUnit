@@ -1,0 +1,18 @@
+{
+  "name": "DiasDaSemana/test.php",
+  "description": "Test library for Test Anything Protocol (TAP)",
+  "keywords": [
+    "test",
+    "unittest",
+    "tap"
+  ],
+  
+  "version": "v0.15.0",
+  "license": "unrestricted",
+  "authors": [
+    {
+      "name": "Jose"
+      
+    }
+  ]
+}
